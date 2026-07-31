@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- ============ BANNER (ilustrasi pixel art original) ============ -->
@@ -111,8 +109,8 @@ Di luar layar terminal, saya menikmati ketenangan alam dan dunia pixel — dua h
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alvalah22&show_icons=true&theme=transparent&title_color=8DA9C4&icon_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvalah22&layout=compact&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Alvalah22&show_icons=true&theme=transparent&title_color=8DA9C4&icon_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alvalah22&layout=compact&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e&hide_border=false" alt="Top Languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alvalah22&theme=transparent&stroke=2e2e2e&ring=8DA9C4&fire=8DA9C4&currStreakLabel=cfd8dc&sideLabels=cfd8dc&dates=6b7b8c" alt="GitHub Streak"/>
 
@@ -154,18 +152,18 @@ Belum ada data — akan otomatis terisi setelah workflow WakaTime pertama kali b
 
 <div align="center">
 
-<a href="https://github.com/Alvalah22/digital_clock.git"> <!-- ganti: link repo asli -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alvalah22&repo=digital-clock&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Digital Clock"/>
+<a href="https://github.com/Alvalah22/digital_clock"> <!-- ganti: link repo asli -->
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Alvalah22&repo=digital_clock&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Digital Clock"/>
 </a>
 <a href="https://github.com/Alvalah22/clinic-management-system"> <!-- ganti: link repo asli -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alvalah22&repo=clinic-management-system&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Clinic Management System"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Alvalah22&repo=clinic-management-system&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Clinic Management System"/>
 </a>
 
-<a href="https://github.com/Alvalah22/Alvalah22.github.io.git"> <!-- ganti: link repo asli -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alvalah22&repo=portfolio-website&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Portfolio Website"/>
+<a href="https://github.com/Alvalah22/Alvalah22.github.io"> <!-- ganti: link repo asli -->
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Alvalah22&repo=Alvalah22.github.io&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Portfolio Website"/>
 </a>
 <a href="https://github.com/Alvalah22/cyber-security-tools"> <!-- ganti: link repo asli -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alvalah22&repo=cyber-security-tools&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Cyber Security Tools"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Alvalah22&repo=cyber-security-tools&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Cyber Security Tools"/>
 </a>
 
 </div>
