@@ -1,13 +1,4 @@
-<!--
-  ============================================================
-  README GitHub Profile — Alvalah22
-  Tema: Pixel Nature x Modern Tech (Minecraft-inspired, original)
-  Struktur file:
-    - assets/banner.svg          -> ilustrasi pixel art original (dibuat dari nol)
-    - .github/workflows/snake.yml -> workflow animasi contribution snake
-  Ganti semua placeholder di dalam <!-- ganti: ... --> sesuai datamu.
-  ============================================================
--->
+
 
 <div align="center">
 
@@ -29,17 +20,14 @@
 <a href="https://github.com/Alvalah22">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/alvalah22"> <!-- ganti: link LinkedIn asli -->
+<a href="https://www.linkedin.com/in/dava-fajar-alvalah-861298393/"> <!-- ganti: link LinkedIn asli -->
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/alvalah22"> <!-- ganti: link Instagram asli -->
+<a href="https://www.instagram.com/dava_f_a?igsh=MXNycHA4bWM3MWo0eQ=="> <!-- ganti: link Instagram asli -->
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://discord.com/users/alvalah22"> <!-- ganti: username/invite Discord asli -->
+<a href="https://discord.com/users/1217122597536399511"> <!-- ganti: username/invite Discord asli -->
   <img src="https://img.shields.io/badge/Discord-2B2D31?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="mailto:alvalah22@example.com"> <!-- ganti: email asli -->
-  <img src="https://img.shields.io/badge/Email-1B1F23?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -166,14 +154,14 @@ Belum ada data — akan otomatis terisi setelah workflow WakaTime pertama kali b
 
 <div align="center">
 
-<a href="https://github.com/Alvalah22/digital-clock"> <!-- ganti: link repo asli -->
+<a href="https://github.com/Alvalah22/digital_clock.git"> <!-- ganti: link repo asli -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alvalah22&repo=digital-clock&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Digital Clock"/>
 </a>
 <a href="https://github.com/Alvalah22/clinic-management-system"> <!-- ganti: link repo asli -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alvalah22&repo=clinic-management-system&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Clinic Management System"/>
 </a>
 
-<a href="https://github.com/Alvalah22/portfolio-website"> <!-- ganti: link repo asli -->
+<a href="https://github.com/Alvalah22/Alvalah22.github.io.git"> <!-- ganti: link repo asli -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alvalah22&repo=portfolio-website&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Portfolio Website"/>
 </a>
 <a href="https://github.com/Alvalah22/cyber-security-tools"> <!-- ganti: link repo asli -->
