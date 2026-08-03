@@ -155,7 +155,7 @@ Belum ada data — akan otomatis terisi setelah workflow WakaTime pertama kali b
 <a href="https://github.com/Alvalah22/digital_clock"> <!-- ganti: link repo asli -->
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Alvalah22&repo=digital_clock&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Digital Clock"/>
 </a>
-<a href="https://github.com/Alvalah22/live-meme-detector.git"> <!-- ganti: link repo asli -->
+<a href="https://alvalah22.github.io/live-meme-detector/"> <!-- ganti: link repo asli -->
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Alvalah22&repo=clinic-management-system&theme=transparent&title_color=8DA9C4&text_color=cfd8dc&border_color=2e2e2e" alt="Clinic Management System"/>
 </a>
 
