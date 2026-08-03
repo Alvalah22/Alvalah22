@@ -184,7 +184,7 @@ Belum ada data — akan otomatis terisi setelah workflow WakaTime pertama kali b
 <!-- ============ QUOTE ============ -->
 <div align="center">
 
-### *"Think with Logic. Build with Code. Lead the Change."*
+### *"Learning. Building. Growing."*
 
 </div>
 
